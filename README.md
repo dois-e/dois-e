@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6699ff&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luiz+Gustavo;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+dois-e;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dois-e&theme=tokyo-night)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
